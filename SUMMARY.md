@@ -1,3 +1,5 @@
-* [Ubuntu 20.04 LTS](https://cap-cloud.github.io/Ubuntu-20.04-LTS/docs/README)
-    * [01.在Windows环境下启用Linux子系统](https://cap-cloud.github.io/Ubuntu-20.04-LTS/docs/01.在Windows环境下启用Linux子系统)
-
+* Ubuntu 20.04 LTS 基础入门
+    * [常用的Shell命令](basic/02.常用的Shell命令.md)
+    * [Ubuntu软件安装](basic/03.Ubuntu软件安装.md)
+    * [Ubuntu环境下安装Maven](basic/04.Ubuntu环境下安装Maven.md)
+    * [Ubuntu的文件系统结构](basic/05.Ubuntu的文件系统结构.md)
